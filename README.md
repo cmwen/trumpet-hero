@@ -1,6 +1,10 @@
 # Trumpet Hero
 
-Private source repository: https://github.com/cmwen/trumpet-hero
+Play online: https://cmwen.dev/trumpet-hero/
+
+Public source repository: https://github.com/cmwen/trumpet-hero
+
+GitHub Actions validates and deploys `main` to GitHub Pages. The production build uses relative asset URLs so it works under the `/trumpet-hero/` project path, including the inherited account domain.
 
 An offline practice room for a **real B♭ trumpet**: microphone pitch feedback, five progressive lessons, three short original melodies, guided learning and an audio-clock rhythm game with a Three.js note highway.
 
